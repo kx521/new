@@ -1,0 +1,14 @@
+{
+    "name": "kx521/new",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "kx521",
+            "email": "wangxu@0521.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
